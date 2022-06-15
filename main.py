@@ -1,8 +1,8 @@
 import pygame
 import numpy as np
-from classes.floor import Floor
-from classes.player import Player
-from classes.box import Box
+from PySokobox.classes.floor import Floor
+from PySokobox.classes.player import Player
+from PySokobox.classes.box import Box
 
 # Variáveis globais
 gameLevel = ''
