@@ -1,2 +1,2 @@
 # PySokobox
-Python implementation of the game Sokobox
+Python implementation of the game Sokobox 📦
